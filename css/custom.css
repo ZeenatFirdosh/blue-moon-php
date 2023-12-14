@@ -1,0 +1,159 @@
+
+
+
+@media (min-width:1200.1px) {
+    .navbar-custom .bottom-nav .navbar-header .navbar-brand img {
+        width: 250px;
+        position: relative;
+        top: -10px;
+    } 
+}
+.footer-logo img{
+    max-width: 90px;
+    margin-bottom: 20px;
+}
+
+.overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgb(0 0 0 / 60%);
+}
+.banner-text h1, .banner-text p {
+    color: #fff !important;
+}
+.service .service-wrapper li .icon-wrapper img {
+    height: 120px;
+    /* border: 1px solid #f1f1f1; */
+    padding: 10px;
+    /* margin-bottom: 20px; */
+}
+.about-wrapper.row {
+    display: flex;
+    align-items: center;
+}
+ul.bottom-des a:hover {
+    color: #999999 ;    
+}
+.copyright a:hover {
+    color: #a5b3e9 !important;
+}
+ul.social {
+    display: none;
+}
+.copyright {
+        text-align: center;
+        background: #2b3b7d !important;
+    border-top:1px solid #f1f1f18f;
+    
+}
+
+.copyright span{
+   
+font-size: 16px !important;
+}
+
+
+.banner-text h1 {
+    text-transform: uppercase;
+}
+
+.read-more{
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    padding: 15px 25px !important;
+}
+
+.navbar-custom .bottom-nav .navbar-nav li a{
+    font-weight: 600 !important;
+}
+.call-action .overly {
+    background: rgba(15, 15, 15, 0.9); !important
+    
+}
+
+p{
+    font-size: 16px !important;
+    line-height: 30px;
+}
+.footer-widget a, .footer-widget {
+    
+    font-size: 16px !important;
+}
+
+.navbar-custom .top-bar .contact {
+    float: right !important;
+    
+}
+.quote {
+    background: #f1f5fd !important;
+   
+}
+
+.about-us .about-text h2.focus-text {
+  
+    color: #2b3b7d !important; 
+   
+}
+
+.service .service-wrapper li h4 {
+    
+    color: #2b3b7d !important;
+    line-height: 30px;
+}
+
+
+
+.navbar-custom .top-bar {
+   
+    background: #f1f5fd !important; 
+}
+
+.quote .form-quote .form-control {
+   
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+
+.section-heading + p {
+    margin-top: 0px;
+    color: #1b2244;
+}
+
+
+::placeholder {
+    /* color: #a5b3e9 !important; */
+}
+
+input, textarea{
+    color: #1b2244 !important;
+}
+
+.banner-text p {
+    font-size: 28px !important;
+}
+
+ul.bottom-des a:hover {
+    color: #a5b3e9 !important; 
+}
+
+.btn.solid-btn:hover, .btn.btn-solid:hover {
+    background: #fff !important;
+   
+   
+    color: #172246 !important; 
+    border: 1px solid #172246 !important;
+}
+.footer-widget .widget-container .footer-col .bottom-des .subscribe .form-control {
+   
+    color: #f4f4f4 !important;
+}
+
+.what-we-do{
+    margin-bottom: 80px;
+}

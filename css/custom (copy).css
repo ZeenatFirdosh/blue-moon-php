@@ -1,0 +1,82 @@
+.navbar-custom .bottom-nav .navbar-header .navbar-brand img {
+  
+    max-width: 70px;
+}
+
+.footer-logo img{
+    max-width: 90px;
+    margin-bottom: 20px;
+}
+
+.overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgb(0 0 0 / 60%);
+}
+.banner-text h1, .banner-text p {
+    color: #fff !important;
+}
+.service .service-wrapper li .icon-wrapper img {
+    height: 120px;
+    border: 1px solid #f1f1f1;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.about-wrapper.row {
+    display: flex;
+    align-items: center;
+}
+ul.bottom-des a:hover {
+    color: #999999 ;
+}
+.copyright a:hover {
+      color: #999999 !important;
+}
+ul.social {
+    display: none;
+}
+.copyright {
+        text-align: center;
+        border-top: 1px solid #d5d5d5;
+}
+.banner-text h1 {
+    text-transform: uppercase;
+}
+
+.btn.solid-btn, .btn.btn-solid{
+    background-color: #3d63d3;
+}
+
+.btn.solid-btn:hover, .btn.btn-solid:hover{
+    background: #1b2244;
+    border: 1px solid #1b2244;
+    border: 1px solid #3d63d3;
+}
+.btn-banner .btn:hover {
+    background-color: #fff;
+    border-color: #fff;
+    color: #3d63d3;
+    text-decoration: none;
+    border: 1px solid #3d63d3;
+    
+}
+
+.btn-banner a {
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    padding: 15px 25px !important;
+    padding-top: 15px !important;
+    padding-right: 25px !important;
+    padding-bottom: 15px !important;
+    padding-left: 25px !important;
+}
+
+a.btn.solid-btn.read-more:hover {
+    border: 1px solid #3d63d3;
+}
